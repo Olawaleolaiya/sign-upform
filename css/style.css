@@ -24,6 +24,7 @@ a{
 .form-wrap{
     background-color: #FCF3EE;
     padding: 15px 25px;
+    border-radius: 10px;
 }
 
 .form-wrap h1,
