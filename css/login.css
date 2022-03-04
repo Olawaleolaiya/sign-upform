@@ -32,6 +32,10 @@ a{
     text-align: center; 
 }
 
+.form-wrap h1 {
+    font-size: medium;
+}
+
 .form-wrap .form-group{
     margin-top: 15px;
 }
